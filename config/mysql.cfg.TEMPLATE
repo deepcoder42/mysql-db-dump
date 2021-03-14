@@ -1,0 +1,6 @@
+# Classification (U)
+# Unclassified until filled in.
+[client]
+password="PASSWORD"
+# Example:  socket=/opt/lamp/mysql/tmp/mysqld.sock
+socket=DIRECTORY_PATH/mysqld.sock
